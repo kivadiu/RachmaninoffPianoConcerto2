@@ -76,7 +76,7 @@ Settings = {
   \mark #38
   \key c \major
   \time 4/4
-  \tempo \markup { \concat { "Allegro scherzando (Moto primo) (" \smaller \general-align #Y #DOWN \note #"2" #1 "=" \smaller \general-align #Y #DOWN \note #"4" #1 ")" } } 4 = 116
+  \tempo \markup { \concat { "Allegro scherzando (Moto primo) (" \smaller \general-align #Y #DOWN \note #"2" #1 " = " \smaller \general-align #Y #DOWN \note #"4" #1 ")" } } 4 = 116
   s1*16
   s1 % poco a poco acceler.
   s1*9
