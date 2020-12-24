@@ -30,6 +30,7 @@
 \include "Contrabass.ily"
 
 #(set-global-staff-size 14)
+\pointAndClickOff
 
 \paper {
   system-separator-markup = \slashSeparator

@@ -17,6 +17,7 @@
 \include "Timbale.ily"
 
 #(set-global-staff-size 16)
+\pointAndClickOff
 
 \paper {
   system-separator-markup = \slashSeparator
