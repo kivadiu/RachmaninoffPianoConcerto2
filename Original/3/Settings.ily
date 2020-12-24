@@ -2,6 +2,7 @@
 \language "english"
 
 pespress = #(make-dynamic-script (markup #:dynamic "p" #:normal-text #:italic "espress."))
+mfespress = #(make-dynamic-script (markup #:dynamic "mf" #:normal-text #:italic "espress."))
 pizz = \markup { "pizz." }
 arco = \markup { "arco" }
 senzasord = \markup { "senza sord." }
