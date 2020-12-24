@@ -34,12 +34,7 @@ FluteI = \relative e'' {
   r2 gf,\p(\cresc                                %  87
   f2 gf                                          %  88
   f2\< g4\sf) r                                  %  89
-  af1 ~                                          %  90
-  af1 ~                                          %  91
-  af8 d,( g2.->) ~                               %  92
-  g1 ~                                           %  93
-  g8 c,( f2.->) ~                                %  94
-  f1                                             %  95
+  R1*6                                           %  90
   r4 df8\f( ef df4) c8( df                       %  96
   c4) b-> c-> r                                  %  97
   R1*8                                           %  98
