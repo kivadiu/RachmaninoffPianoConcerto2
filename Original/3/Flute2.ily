@@ -31,7 +31,7 @@ FluteII = \relative c'' {
   R1.*8                                          %  75
   % #30
   R1*4                                           %  83
-  r2 c\p(\cresc                                  %  87
+  r2 << c2\p( { s4 s\cresc } >>                  %  87
   df2 c                                          %  88
   df2\< d4)\sf r                                 %  89
   R1*6                                           %  90
@@ -109,8 +109,8 @@ FluteII = \relative c'' {
   f,1)\ff ~                                      % 268
   f1                                             % 269
   r4 bf8\mf( gf' f4--) bf,8( f'                  % 270
-  ef4--) bf8( ef d4--) bf(                       % 271
-  ef,1)\ff ~                                     % 272
+  ef4--) bf8( ef d4--) bf                        % 271
+  ef,1\ff ~                                      % 272
   ef1                                            % 273
   a2\mf( bf                                      % 274
   g2 a\<                                         % 275

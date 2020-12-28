@@ -31,7 +31,7 @@ FluteI = \relative e'' {
   R1.*8                                          %  75
   % #30
   R1*4                                           %  83
-  r2 gf,\p(\cresc                                %  87
+  r2 << gf,2\p( { s4 s\cresc } >>                %  87
   f2 gf                                          %  88
   f2\< g4\sf) r                                  %  89
   R1*6                                           %  90
