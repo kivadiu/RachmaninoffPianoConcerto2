@@ -170,6 +170,19 @@ ClarinetIinB = \relative bf' {
   R1*8                                           % 280
   % #36
   R1*2                                           % 288
+  bf,4\mf\cresc( c2 d4)                          % 290
+  d4(\f e2 f4)                                   % 291
+  f'2-> f->                                      % 292
+  gs2-> a->                                      % 293
+  a4-> bf-.\ff a-. bf-.                          % 294
+  a4-. a8-. a-. a4-- gs8-. gs-.                  % 295
+  gs4-- bf-. a-. bf-.                            % 296
+  a4-. f8-. f-. f4-- e8-. e-.                    % 297
+  e4-- e8-. e-. e4-- ds8-. ds-.                  % 298
+  ds4-- d8-. d-. d4-- cs8-. cs-.                 % 299
+  cs4-- bf'-. bf-. bf-> ~                        % 300
+  bf4 a-. a-. r                                  % 301
+  R1*8                                           % 302
 }
 
 ClarinetI = {

@@ -164,6 +164,20 @@ ClarinetIIinB = \relative g' {
   R1*8                                           % 280
   % #36
   R1                                             % 288
+  f,4\p\cresc( g2 a4)                            % 289
+  g4\mf\cresc( a2 bf4)                           % 290
+  b4\f( cs2 d4)                                  % 291
+  d'2-> d->                                      % 292
+  d2-> g->                                       % 293
+  f4-> d\ff-. d-. d-.                            % 294
+  d4-. f8-. f-. f4-- e8-. e-.                    % 295
+  e4-- bf-. a-. bf-.                             % 296
+  a4-. df8-. df-. df4-- c8-. c-.                 % 297
+  c4-- c8-. c-. c4-- b8-. b-.                    % 298
+  b4-- bf8-. bf-. bf4-- a8-. a-.                 % 299
+  a4-- d-. ef-. d-> ~                            % 300
+  d4 g-. f-. r                                   % 301
+  R1*8                                           % 302
 }
 
 ClarinetII = {
