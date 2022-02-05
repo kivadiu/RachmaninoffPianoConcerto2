@@ -1,3 +1,5 @@
+\version "2.23.5"
+
 Cello = \relative e {
   e4\pp^\senzasord r as,-.( b-.)                 %   1
   e4 r r2                                        %   2

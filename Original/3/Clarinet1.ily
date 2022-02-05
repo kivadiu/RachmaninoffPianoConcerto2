@@ -1,3 +1,5 @@
+\version "2.23.5"
+
 ClarinetIinA = \relative g' {
   g4\pp r r2                                     %   1
   R1                                             %   2

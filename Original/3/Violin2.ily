@@ -1,3 +1,5 @@
+\version "2.23.5"
+
 ViolinII = \relative gs {
   gs4\pp^\senzasord r r2                         %   1
   r2 b8( as b4)                                  %   2

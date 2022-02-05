@@ -1,3 +1,5 @@
+\version "2.23.5"
+
 TrumpetII = \transpose c' bf \relative cs'' {
   R1*16                                          %   1
   cs4->\f r cs-.\p\< d-.                         %  17
